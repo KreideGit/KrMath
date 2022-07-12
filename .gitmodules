@@ -1,0 +1,3 @@
+[submodule "KrMathTests/vendor/googletest"]
+	path = KrMathTests/vendor/googletest
+	url = https://github.com/KreideGit/googletest
